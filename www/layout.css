@@ -1,0 +1,36 @@
+body {
+    background-color: #68aff7;
+}
+
+.frameparent {
+    background-color: #68aff7;
+    position: absolute;
+    padding: 0px;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    box-sizing: border-box;
+}
+
+.courseframe {
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.courseframe2 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+    border: none;
+    margin: 0;
+    overflow: hidden;
+    z-index: 999999;
+    box-sizing: border-box;
+}
