@@ -4,8 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.rusaja.hars"
-        android-packageName = "hars"
-        version   = "2.0.6">
+        version   = "2.0.7">
 
   <name>HARS</name>
 
@@ -29,6 +28,8 @@
         permission on your app, which PhoneGap requires.
     -->
   <preference name="permissions"                value="none"/>
+
+  <preference name="android-packageName"                value="hars"/>
 
   <!-- Customize your app and platform with the preference element. -->
   <preference name="phonegap-version"           value="cli-9.0.0" />
