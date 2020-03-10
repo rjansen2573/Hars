@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.rusaja.hars"
-        version   = "2.0.12">
+        version   = "2.0.14">
 
   <name>HARS</name>
 
@@ -79,8 +79,6 @@
     <param name="onload" value="true" />
   </feature>
 
-  <plugin name="org.apache.cordova.device" source="npm" />
-  
   <!-- Define app splash screen for each platform. -->
   <platform name="android">
     <icon qualifier="ldpi" src="logo_hars.png" />
