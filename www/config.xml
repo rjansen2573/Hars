@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.rusaja.hars"
-        version   = "2.0.9">
+        version   = "2.0.10">
 
   <name>HARS</name>
 
@@ -15,7 +15,7 @@
   <author href="http://www.jaruso.nl" email="info@jaruso.nl">
     JRS
   </author>
-  
+
   <!--
         Enable individual API permissions by defining each here.
         The 'device' permission is required for the 'deviceready' event.
