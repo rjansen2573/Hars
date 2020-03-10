@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.rusaja.hars"
-        version   = "2.0.2">
+        version   = "2.0.3">
 
   <name>HARS</name>
 
@@ -114,6 +114,6 @@
   <allow-navigation href="http://www.buienradar.nl/*"/>
   <allow-navigation href="https://maxcdn.bootstrapcdn.com/font-awesome"/>
   <allow-navigation href="http://fonts.googleapis.com/css?family=Play"/>
-
+  <allow-navigation href="*" />
 
 </widget>
