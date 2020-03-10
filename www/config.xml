@@ -4,7 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.rusaja.hars"
-        version   = "2.0.4">
+        android-packageName = "hars"
+        version   = "2.0.6">
 
   <name>HARS</name>
 
